@@ -1,5 +1,3 @@
-Create a ReadabilityText folder on the Desktop. In it, download the ReadabilityText.py script. In this folder, create a new folder named autor, where you will put the TXT files with the texts.
-For example:
-On your Desktop is File: ReadabilityText
-Into this file save: ReadabilityText.py
-Into this file put the folder with name of autor. Into this folder put  the TXT files with texts of this author.
+1. Create a ReadabilityText folder on you Desktop. In it, download the ReadabilityText.py script. In this folder, create a new folder named autor. 
+2. Put the txt files of works by this autohor into this folder.
+3. Run the script with GUI. 
