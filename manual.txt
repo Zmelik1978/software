@@ -1,3 +1,4 @@
 1. Create a ReadabilityText folder on you Desktop. In it, download the ReadabilityText.py script. In this folder, create a new folder named autor. 
 2. Put the txt files of works by this autohor into this folder.
 3. Run the script with GUI. 
+4. If the TXT files are large, be patient.
