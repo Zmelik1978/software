@@ -1,0 +1,3 @@
+The program analyzes the lemmatized text (a set of lemmas) and generates clusters for sentiment analysis, which are defined using the Thesaurus of the Czech Language (TČJ). The individual clusters (emotions) correspond to how these topics (motifs) are treated in the TČJ.
+After specifying the name of the output file name, which will be an excel spreadsheet, and two other criteria (shut down PC after processing the task, generate graph), a graph with individual emotion clusters and their quantitative evaluation in the analyzed text is generated and the corresponding data of the excel spreadsheet is saved in the Thesaurus Sentiment Analysis folder.
+
