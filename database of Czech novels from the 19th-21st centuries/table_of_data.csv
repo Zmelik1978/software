@@ -1,0 +1,170 @@
+,author,year_birth,year_dead,title,year_published,num_sentences,num_tokens,num_lemmas,longest_sentence,longest_word
+0,Jakub Arbes,1840,1914,Ďábel na skřipci,1869,813,12141,3181,66,18
+0,Jakub Arbes,1840,1914,Elegie o černých očích,1867,242,4434,1436,64,16
+1,Jakub Arbes,1840,1914,Svatý Xaverius,1873,1234,26864,3846,115,18
+2,Jakub Arbes,1840,1914,Sivooký démon,1873,2176,39177,4837,86,30
+3,Jakub Arbes,1840,1914,Zázračná madona,1875,1996,37962,5016,130,19
+4,Jakub Arbes,1840,1914,Ukřižovaná,1876,2088,45739,5264,113,18
+5,Jakub Arbes,1840,1914,Newtonův mozek,1877,1077,25298,4218,105,21
+6,Jakub Arbes,1840,1914,Akrobati,1878,1951,38159,4666,156,24
+0,Jakub Arbes,1840,1914,Etiopská lilie,1879,3573,76060,7107,126,25
+1,Jakub Arbes,1840,1914,Šílený Job,1879,1644,40768,4475,129,22
+2,Jakub Arbes,1840,1914,Můj přítel vrah,1879,1547,42626,4330,192,19
+3,Jakub Arbes,1840,1914,Aspoň se pousměj,1885,1335,33893,4542,142,21
+4,Jakub Arbes,1840,1914,Dva barikádníci,1885,1209,33777,4579,205,19
+0,Jakub Arbes,1840,1914,Zborcené harfy tón,1886,2836,76084,7243,194,22
+1,Jakub Arbes,1840,1914,První noc u mrtvoly,1886,303,8861,1919,134,16
+2,Jakub Arbes,1840,1914,Il divino Boemo,1886,529,14010,2770,122,20
+3,Jakub Arbes,1840,1914,Anna a Marie,1887,1633,46555,5564,282,22
+0,Jakub Arbes,1840,1914,Vymírající hřbitov,1900,824,24625,4610,179,18
+1,Jakub Arbes,1840,1914,Kandidáti existence,1878,3145,78398,7033,186,21
+2,Jakub Arbes,1840,1914,Adamité,1882,2333,59565,6025,233,22
+0,Jakub Arbes,1840,1914,Anděl míru I,1900,1805,41562,5421,119,22
+1,Jakub Arbes,1840,1914,Anděl míru II,1900,1885,42310,5303,137,21
+2,Jakub Arbes,1840,1914,Anděl míru III,1903,2071,46076,5905,126,20
+3,Jakub Arbes,1840,1914,Anděl míru IV,1903,2793,57130,6658,137,22
+0,Jakub Arbes,1840,1914,Moderní upíři,1882,3560,89672,6414,139,22
+1,Jakub Arbes,1840,1914,Agitátor,1905,2770,65650,6867,138,21
+0,Karel Hynek Mácha,1810,1836,Márinka,1834,184,4687,1337,95,15
+1,Karel Hynek Mácha,1810,1836,Křivoklad,1834,574,15780,2893,163,15
+0,Karel Hynek Mácha,1810,1836,Cikáni,1835,1779,35399,4426,132,19
+1,Karel Hynek Mácha,1810,1836,Večer na Bezdězu,1834,52,1312,521,62,15
+2,Karel Hynek Mácha,1810,1836,Valdice,1836,76,1977,783,99,15
+3,Karel Hynek Mácha,1810,1836,Krkonošská pouť,1834,83,3162,967,98,14
+4,Karel Hynek Mácha,1810,1836,Karlův tejn,1833,32,1455,591,94,13
+0,Karel Hynek Mácha,1810,1836,Viasil Viasilovič,1832,132,4725,1193,163,16
+1,Karel Hynek Mácha,1810,1836,Klášter Sázavský,1832,47,1400,570,82,14
+2,Karel Hynek Mácha,1810,1836,Svět smyslný,1833,6,529,276,144,15
+3,Karel Hynek Mácha,1810,1836,Svět zašlý,1834,65,1076,390,91,15
+4,Karel Hynek Mácha,1810,1836,Sen,1832,37,1249,484,94,16
+5,Karel Hynek Mácha,1810,1836,Poutník,1833,4,150,100,37,12
+6,Karel Hynek Mácha,1810,1836,Návrat,1834,40,1255,474,139,14
+7,Karel Hynek Mácha,1810,1836,Přísaha,1833,14,607,298,99,13
+0,Jan Neruda,1834,1891,Týden v tichém domě,1867,1332,26918,4224,98,17
+1,Jan Neruda,1834,1891,Pan Ryšánek a pan Schlegl,1875,206,3686,1071,59,27
+2,Jan Neruda,1834,1891,Přivedla žebráka na mizinu,1875,160,2732,883,60,16
+0,Jan Neruda,1834,1891,O měkkém srdci paní Rusky,1875,107,2004,681,72,15
+1,Jan Neruda,1834,1891,Večerní šplechty,1876,247,4139,1109,41,14
+2,Jan Neruda,1834,1891,Doktor Kazisvět,1876,133,2386,790,75,15
+3,Jan Neruda,1834,1891,Hastrman,1876,129,2148,731,52,16
+4,Jan Neruda,1834,1891,Jak si nakouřil pan Vorel pěnovku,1876,95,1792,637,50,15
+0,Jan Neruda,1834,1891,U tří lilií,1876,51,778,344,35,12
+1,Jan Neruda,1834,1891,Svatováclavská mše,1876,228,4364,1286,57,16
+2,Jan Neruda,1834,1891,Jak to přišlo...,1877,365,6035,1609,61,19
+3,Jan Neruda,1834,1891,Psáno o letošních dušičkách,1876,232,3929,1115,50,14
+4,Jan Neruda,1834,1891,Figurky,1877,1926,26013,3636,62,18
+0,Karolina Světlá,1830,1899,Černý Petříček,1871,1367,33648,4896,127,19
+1,Karolina Světlá,1830,1899,Zvonečková královna,1872,1749,63170,7700,199,21
+0,Zikmund Winter,1846,1912,Mistr Kampanus,1907,7704,169704,14891,279,17
+1,Alois Jirásek,1851,1930,F. L. Věk I,1888,5125,81918,7539,110,17
+2,Alois Jirásek,1851,1930,F. L. Věk II,1892,7614,129752,9763,125,22
+3,Alois Jirásek,1851,1930,F. L. Věk III,1897,9454,161463,11733,151,26
+4,Alois Jirásek,1851,1930,F. L. Věk IV,1900,7651,145390,11783,171,22
+5,Alois Jirásek,1851,1930,F. L. Věk V,1906,8044,176779,12193,191,27
+0,Alois Jirásek,1851,1930,Filozofská historie,1906,2076,35400,4995,70,21
+1,Alois Jirásek,1851,1930,Temno,1914,9372,211979,12602,177,18
+0,Julius Zeyer,1841,1901,Jan Maria Plojhar,1888,6247,115736,8390,137,19
+1,Julius Zeyer,1841,1901,Legenda pražská,1892,384,7429,1620,84,15
+2,Julius Zeyer,1841,1901,Legenda toledská,1892,445,9172,2056,89,21
+3,Julius Zeyer,1841,1901,Legenda slovenská,1892,367,7973,1865,76,16
+0,Svatopluk Čech,1846,1908,Nový epochální výlet pana Broučka,1888,2117,55414,7973,160,18
+1,Svatopluk Čech,1846,1908,Pravý výlet pana Broučka,1888,1302,29564,5857,129,17
+0,Ignát Herrmann,1854,1935,U snědeného krámu I,1890,1780,38543,5942,135,18
+1,Ignát Herrmann,1854,1935,U snědeného krámu II,1890,1769,37581,5623,143,19
+2,Ignát Herrmann,1854,1930,U snědeného krámu III,1890,2189,49462,6177,127,19
+3,Ignát Herrmann,1854,1930,U snědeného krámu IV,1890,2157,45340,5777,103,17
+0,Ignát Herrmann,1854,1935,Otec Kondelík a ženich Vejvara,1898,6252,121033,9806,125,33
+1,Ignát Herrmann,1854,1935,Tchán Kondelík a zeť Vejvara,1906,7036,136086,9840,166,19
+0,Ignát Herrmann,1854,1935,Zamrzá!,1885,108,2173,777,72,19
+1,Ignát Herrmann,1854,1935,Spiritista,1885,104,2216,712,78,13
+2,Ignát Herrmann,1854,1935,Dvě těžké chvíle ze života páně Klokočova,1885,129,3740,1084,89,15
+3,Ignát Herrmann,1854,1935,To se tak nebere!,1886,150,3472,1113,83,15
+0,Ignát Herrmann,1854,1935,Ztracený ráj páně Tetřevův,1886,78,2547,844,128,17
+1,Ignát Herrmann,1854,1935,Malíř a malíř!,1888,134,3045,961,102,15
+2,Ignát Herrmann,1854,1935,Proč pan Tadeáš Bezinka chodí oholen a ostříhán,1886,189,4627,1366,124,15
+0,Ignát Herrmann,1854,1935,Pan Alojs,1885,114,2513,835,95,19
+1,Ignát Herrmann,1854,1935,Dobrý muž Koňura,1888,211,4761,1345,57,15
+2,Ignát Herrmann,1854,1935,Kterak pan Vilibald Vonásek dobyl svobody,1887,127,2929,907,95,16
+3,Ignát Herrmann,1854,1935,Poslední sázka,1887,151,3373,1060,59,15
+4,Ignát Herrmann,1854,1935,Tajný společník páně Kobrčův,1889,138,3030,843,58,16
+5,Ignát Herrmann,1854,1935,Smlouva pánů Škrabouta a Rysa,1887,104,2735,901,77,15
+6,Ignát Herrmann,1854,1935,Náš Mikoláš,1888,200,4435,1246,108,15
+7,Ignát Herrmann,1854,1935,První výdělek,1886,134,3064,987,99,13
+0,Ignát Herrmann,1854,1935,Historie o doktoru Faustovi,1884,653,18695,3593,160,16
+1,Ignát Herrmann,1854,1935,Hvězdáři,1887,77,2280,928,144,18
+2,Ignát Herrmann,1854,1935,Příběh dušičkový,1916,2762,47935,6019,101,17
+0,Karel Matěj Čapek-Chod,1860,1927,Kašpar Lén mstitel,1898,2224,57084,8507,165,20
+1,Antonín Sova,1864,1928,Ivův román,1901,5055,80887,8701,85,30
+0,Jaroslav Hašek,1883,1923,Švejk1,1923,3836,65951,7648,95,24
+1,Jaroslav Hašek,1883,1923,Švejk2,1923,2850,73454,8448,158,27
+0,Josef Jiří Kolár,1812,1896,Pekla zplozenci,1862,1878,53806,7437,157,17
+0,Vilém Mrštík,1863,1912,Santa Lucia,1893,4657,108543,10050,267,19
+0,Gustav Neyrink,1868,1932,Golem,1915,4563,72957,8076,93,18
+1,Gustav Meyrink,1868,1932,Valpuržina noc,1917,2595,54937,7244,120,18
+2,Gustav Meyrink,1868,1932,Bílý dominikán,1921,2327,50602,6021,164,21
+0,Franz Kafka,1883,1924,Proces,1925,2771,74542,7764,166,25
+0,Michal Ajvaz,1949,0,Druhé město,1993,1534,47159,6426,357,18
+1,Michal Ajvaz,1949,0,Luxemburská zahrada,2011,1659,54413,6668,488,26
+2,Michal Ajvaz,1949,0,Vražda v hotelu Intercontinental,1989,350,6762,2091,187,20
+3,Michal Ajvaz,1949,0,Návrat starého varana,1991,823,24807,4878,273,21
+0,Daniela Hodrová,1946,0,Podobojí,1991,3005,58810,5626,77,19
+1,Daniela Hodrová,1946,0,Kukly,1991,4705,91476,6401,79,32
+2,Daniela Hodrová,1946,0,Théta,1991,4106,68696,8279,90,26
+3,Daniela Hodrová,1946,0,Město vidím,1992,1390,24485,4392,98,18
+4,Daniela Hodrová,1946,0,Točité věty,2015,2433,145359,12978,548,28
+0,Miloš Urban,1967,0,Poslední tečka za rukopisy,1998,2748,52639,9105,175,24
+1,Miloš Urban,1967,0,Hastrman1,2001,3834,69877,9293,78,19
+2,Miloš Urban,1967,0,Hastrman2,2001,3897,53953,8683,67,20
+3,Miloš Urban,1967,0,Sedmikostelí,1998,5830,97480,11853,150,22
+4,Miloš Urban,1967,0,Stín katedrály,2003,4287,63692,9042,171,23
+0,Miloš Urban,1967,0,Michaela,2004,2108,25970,4357,55,16
+1,Miloš Urban,1967,0,Santiniho jazyk,2005,6243,91331,9801,131,60
+2,Miloš Urban,1967,0,Lord Mord,2008,5431,95065,10704,140,22
+3,Miloš Urban,1967,0,Boletus Arcanus,2011,4746,75127,9133,91,28
+0,Miloš Urban,1967,0,Praga Piccola,2012,6538,126251,12107,126,26
+1,Miloš Urban,1967,0,Pole a palisáda,2006,1635,22421,4159,62,16
+2,Miloš Urban,1967,0,Továrna na maso,2022,5602,96067,9923,97,20
+0,Jakub Arbes,1840,1914,Démantová garnitura,1883,1044,28229,3769,221,18
+1,Jakub Arbes,1840,1914,Kamarádi,1888,197,4594,1151,82,19
+2,Jakub Arbes,1840,1914,Nalezenec,1887,416,11174,2363,131,18
+3,Jakub Arbes,1840,1914,Noc na hřbitově,1899,676,18299,3736,129,22
+0,Jakub Arbes,1840,1914,Odumírající drahokam,1889,235,6008,1570,131,18
+1,Jakub Arbes,1840,1914,Sladký hřích,1877,229,6951,1562,130,17
+0,Jakub Arbes,1840,1914,Bílé svatební šaty,1883,120,2899,899,90,15
+1,Jakub Arbes,1840,1914,Blíženci,1888,116,2797,924,91,15
+"0,Jakub Arbes,1840,1914,""Jedna z těch, které mě zajímaly"",1883,217,6139,1698,119,17"
+1,Jakub Arbes,1840,1914,Poslední škamna,1878,676,18278,3135,146,18
+2,Jakub Arbes,1840,1914,Rodinné drama,1888,2095,47174,5092,107,19
+3,Jakub Arbes,1840,1914,Zpuchřelá nitka,1888,206,4471,1311,98,17
+0,Gustav Meyrink,1868,1932,Zelená tvář,1916,2920,77790,8941,248,21
+0,Gustav Meyrink,1868,1932,Anděl západního okna,1927,6437,130600,11330,144,32
+0,Karolina Světlá,1830,1899,První Češka,1861,3619,98203,9148,147,18
+0,Daniela Hodrová,1946,2024,Perunův den,1994,4925,81702,6588,74,17
+0,Karolina Světlá,1830,1899,Mladá paní Zapletalová,1882,463,16048,3212,163,20
+0,Miloš Urban,1967,0,Závěrka,2017,3763,59748,7489,99,18
+0,Karolina Světlá,1830,1899,Škapulíř,1889,1424,42636,5927,119,18
+1,Karolina Světlá,1830,1899,Na košatkách,1885,1177,33277,4747,120,17
+0,Gustav Meyrink,1868,1932,Neviditelná Praha,1930,59,1443,623,129,14
+1,Gustav Meyrink,1868,1932,Pražská vizitka,0,317,5833,1950,94,17
+0,Jakub Arbes,1840,1914,Dobrodružství ve výsadní hospodě,1872,257,6464,1546,87,16
+1,Jakub Arbes,1840,1914,Lampičky,1883,1338,34502,4355,134,21
+2,Jakub Arbes,1840,1914,Penězokaz,1875,140,2766,1020,62,17
+3,Jakub Arbes,1840,1914,Samovrah,1900,173,4879,1346,92,18
+4,Jakub Arbes,1840,1914,Sběhlé švícko,1875,155,3293,1150,83,17
+5,Jakub Arbes,1840,1914,V staré pražské krčmě,1888,897,25657,4064,238,19
+6,Jakub Arbes,1840,1914,Zbožný Tomáš,1874,226,4259,1311,66,16
+0,Jakub Arbes,1840,1914,Duhový bod nad hlavou,1889,117,2579,833,74,18
+0,Jakub Arbes,1840,1914,Lilie v úpalu slunečním,1891,345,7414,1979,102,19
+0,Jakub Arbes,1840,1914,Moderní Magdaléna,1900,731,19439,2859,177,20
+0,Jakub Arbes,1840,1914,Před domem smutku,1883,606,15444,3146,169,17
+0,Jakub Arbes,1840,1914,"Připij si, břatříčku!",1892,655,15099,2812,159,17
+0,Jakub Arbes,1840,1914,Svatý Václav,1899,455,11968,2354,136,24
+0,Jakub Arbes,1840,1914,Trilobit,1890,163,4990,1563,145,20
+1,Jakub Arbes,1840,1914,Zbožňovatel slečny Esterházy,1878,584,14170,2939,120,21
+0,Jakub Arbes,1840,1914,Advokát chuďasů,1881,997,27264,3820,174,18
+0,Jakub Arbes,1840,1914,Lotr Gólo,1886,1225,32599,4674,193,22
+0,Miloš Urban,1967,0,Paměti poslance parlamentu,2002,3421,41455,6593,110,22
+1,Jakub Arbes,1840,1914,Duhokřídlá Psyché,1891,1569,39487,5544,186,24
+0,Jakub Arbes,1840,1914,Poslední dnové lidstva,1895,2858,85778,8220,164,23
+0,Jakub Arbes,1840,1914,Štrajchpudlíci,1883,4509,125412,9001,252,22
+0,Petr Stančík,1968,0,Mlýn na mumie,2013,3893,78607,12939,100,33

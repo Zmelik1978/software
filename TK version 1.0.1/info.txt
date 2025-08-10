@@ -1,0 +1,9 @@
+The program calculates the so-called thematic text concentration (TC), which shows which autosemantics are displayed above the so-called h-point. The h-point is a boundary that divides the rank frequency distribution into a region with a predominance of synsemantics a region where autosemantics appear. The purpose of TK is to filter out autosemantics above the h-point boundary. More here (https://www.czechency.org/slovnik/TEMATICK%C3%81%20KONCENTRACE%20TEXTU).
+
+The folder contains both the file itself and the two components "lemma" and "tag". These folders contain TXT files (UTF-8 encoding) with the lemmas and morphological tags of the text. 
+
+These files can be obtained by processing the plain text (UTF-8 encoding) using MorphoDita software (https://lindat.mff.cuni.cz/services/morphodita/).
+
+For example, both folders contain TXT files with lemmata and tags of Alois Jirásek's novel F. L. Věk I.
+
+version 1.0.1 detect nouns, adejctives and verbs
